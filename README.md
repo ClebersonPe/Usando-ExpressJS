@@ -1,0 +1,1 @@
+Neste projeto, realizei a integração entre o front-end e o back-end em Express utilizando o padrão arquitetural MVC. O objetivo principal foi proporcionar aos alunos uma experiência prática dessa integração, permitindo que compreendessem, em tempo real, o funcionamento da API que estavam desenvolvendo.
